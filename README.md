@@ -1,6 +1,6 @@
 # Codeforces-Extension
 # Codeforces Random Problem Chrome Extension
-![Extension Screenshot](cfextension.png)
+![Extension Screenshot](cfextension2.png)
 This is a Chrome extension that allows you to pick a random problem from Codeforces based on a specified rating range.
 
 ## Installation
