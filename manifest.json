@@ -1,0 +1,21 @@
+
+{
+    "manifest_version": 2,
+    "name": "Codeforces Random Problem",
+    "version": "1.0",
+    "description": "Pick a random problem from Codeforces.",
+    "permissions": ["http://www.codeforces.com/*", "https://www.codeforces.com/*"],
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    },
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+    }
+  }
