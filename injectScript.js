@@ -1,4 +1,5 @@
 function injectForm() {
+    //html forms
     var formHTML = `
       <div id="problemFilterForm" style="display: none;">
         <label for="minRating">Minimum Rating:</label>
